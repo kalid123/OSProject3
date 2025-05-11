@@ -79,12 +79,12 @@ pytest                      # runs all tests
 ## Project Structure
 
 ```
+README.md              # This file
 Project3/
 ├── btree.py               # B-Tree implementation
 ├── cache.py               # Node cache module
 ├── utils.py               # Utility functions (serialization, constants)
 ├── main.py                # CLI entry point
-├── README.md              # This file
 └── tests/
     └── test_btree.py     # Pytest test suite
 ```
